@@ -1,30 +1,26 @@
 
 
+License Agreement for Academic Use Only
 
-
-# License Agreement for Academic Use Only
-
-## 1. Grant of License
+1. Grant of License
 You are granted a limited, non-exclusive, non-transferable license to use this dataset for academic purposes only, free of charge. This license is not a sale of the owner's rights. You may not rent, lease, lend, sub-license, or transfer the dataset or any rights under this agreement.
 
-## 2. No Warranties
+2. No Warranties
 The dataset and any associated software are provided "AS IS," without any warranties. The authors disclaim all implied warranties, including but not limited to those of merchantability and fitness for a particular purpose.
 
-## 3. Limitation of Liability
+3. Limitation of Liability
 The authors are not liable for any damages arising from the use or inability to use the dataset and associated software, even if advised of the possibility of such damages.
 
-## 4. Responsible Use
+4. Responsible Use
 It is your responsibility to ensure that your use of this dataset complies with this agreement. For any uses not permitted by this agreement, you must seek prior written permission from the authors and may need to pay additional fees or royalties.
 
-## 5. Acceptance of Agreement
+5. Acceptance of Agreement
 By using this dataset and any associated software, you accept the terms of this agreement. You agree to cite the following papers in any publications that utilize this dataset:
 
-- **Roller Coaster 2020:** @inproceedings{islam2020automatic, title={Automatic detection and prediction of cybersickness severity using deep neural networks from user’s physiological signals}, author={Islam, Rifatul and others}, booktitle={2020 IEEE ISMAR}, pages={400--411}, year={2020}, organization={IEEE}}
-- **Simulations 2021:** @inproceedings{islam2021cybersickness, title={Cybersickness prediction from integrated hmd’s sensors}, author={Islam, Rifatul and others}, booktitle={2021 IEEE ISMAR}, pages={31--40}, year={2021}, organization={IEEE}}
-- **Terrain 2022:** @inproceedings{ang2022you, title={You’re in for a bumpy ride!}, author={Ang, Samuel and others}, booktitle={2022 IEEE VR}, pages={428--435}, year={2022}, organization={IEEE}}
-- **Terrain 2023:** @inproceedings{ang2023you, title={You Make Me Sick!}, author={Ang, Samuel and others}, booktitle={2023 IEEE VR}, pages={561--570}, year={2023}, organization={IEEE}}
 
-## 6. Further Information
+ @inproceedings{islam2021cybersickness, title={Cybersickness prediction from integrated hmd’s sensors}, author={Islam, Rifatul and others}, booktitle={2021 IEEE ISMAR}, pages={31--40}, year={2021}, organization={IEEE}}
+
+6. Further Information
 For further information or commercial licensing, please contact: john.quarles@utsa.edu
 
 
